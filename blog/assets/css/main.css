@@ -32,6 +32,9 @@ body {
 	background-color: #ebe0ce;
 	line-height: 1.25;
 }
+input, button {
+	font-family: "Charter";
+}
 #name {
 	margin-top: 0;
 	margin-bottom:0;
