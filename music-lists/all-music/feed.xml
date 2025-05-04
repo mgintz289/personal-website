@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" >
-  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <link href="https://mgintz.com/music-lists/all-music/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://mgintz.com/music-lists/all-music/" rel="alternate" type="text/html"/>
-  <updated>2025-05-03T21:24:11-05:00</updated>
-  <id>https://mgintz.com/music-lists/all-music/feed.xml</id>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mgintz.com/music-lists/all-music/feed.xml" rel="self" type="application/atom+xml"/><link href="https://mgintz.com/music-lists/all-music/" rel="alternate" type="text/html"/><updated>2025-05-03T21:24:11-05:00</updated><id>https://mgintz.com/music-lists/all-music/feed.xml</id>
   <title type="html">Music Collection - Michael Gintz</title>
   <subtitle>Michael Gintz's virtual music collection</subtitle>
   
