@@ -22,6 +22,9 @@
 	font-weight: bold;
 	font-style: italic;
 }
+input, button {
+	font-family: "Charter";
+}
 body {
 	font-family: "Charter";
 	margin: 0;
