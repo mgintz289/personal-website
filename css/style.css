@@ -51,6 +51,12 @@ body {
 	height:.4in;
 	border: 1px solid black;
 }
+#icon {
+	width:auto;
+	height:.7in;
+	border: 1px solid black;
+	margin-right: 
+}
 #flag-logo {
 	height:.3in;
 	margin:auto;
@@ -333,4 +339,7 @@ hr {
 	color: black;
 	border: none;
 	border-top: 1px solid black;
+}
+td#donoleft {
+	text-align: left !important;
 }
