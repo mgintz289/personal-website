@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width">
+    
+    <title>To say very little of feeling good - Michael Gintz</title>
+    
+    
+    
+    <link rel="stylesheet" href="https://mgintz.com/css/style.css" type="text/css"/>
+    
+    <!--<link rel="shortcut icon" href="favicon.png">-->
+  </head>
+  <body>
+    <header>
+      
+        
+        <h1 id="name" style="padding-bottom:0px;">Michael Gintz</h1>
+        <h3 id="name"style="padding-top:0px;">Blog</h3>
+        
+      
+    </header>
+    <div id="eight">
+    <div id="whitebox">
+    <b>April 13, 2026: To say very little of feeling good</b><br><br>
+<h3>i. on doing something different</h3>
+I have spent a lot of time thinking about the following questions:<br>
+
+<ul>
+    <li>If you're doing a job that someone else would do in the same way if you disappeared, are you really making a difference?</li>
+    <li>If you could make more of a difference dropping everything and moving somewhere else, would you be immoral for not doing so?</li>
+    <li>Could I make more of a difference dropping everything and moving somewhere else?</li>
+</ul>
+
+I think the answer to the first question is <i>no,</i> depending on your definition of <i>making a difference.</i> If you want the world to <i>change</i> in some way, then you'd better expect to do something that someone else wouldn't do if you disappeared. (If you are going to do something <i>significantly</i> more efficiently than whoever would take your place, I'd consider this to be doing your job "not in the same way" as someone else would and thus you can make a difference.)<br><br>
+
+I think the answer to the second question is <i>yes,</i> though this comes with some caveats. Of course, I want "making a difference" (in net) to cover a lot of ground: if you abandon an existing obligation, or cause other fallout from leaving, this negative difference counteracts any positive difference (in the same way as any other opportunity costs). Additionally, I think that "making a difference (in net)" implies a utilitarian framework, which I don't actually think is necessary. The only claim I want to make is the almost-tautological "if it is morally better to drop everything and move somewhere else than what you would do otherwise, then it is morally worse to not do so." But if your framework is more utilitarian (or at least you think in that language), then my original wording I think is a more specialized tool than this statement (though I think even this more-general framing is often helpful!).<br><br>
+
+This, of course, leaves only the third question to wrestle with. It's often much easier to understand the opportunity costs associated with home, but the benefits of any destination are notoriously not only hard to understand, but often poisoned as well. There are many allures to <i>voluntourism</i> (which I will define for my purposes as <i>traveling to volunteer in a scenario where it won't actually make a meaningful difference</i>), but I think for me the most alluring is the following<br><br>
+
+<b>(!) Claim.</b> Being in a place that is worse off makes it easier to make a difference.<br><br>
+
+This claim is not entirely without merit. If you have a lot of specialized knowledge in starting a certain kind of program that promotes wellbeing, and starting that program requires a person on the ground, you'll probably be better served living in a place that doesn't already have that program. Furthermore, I'm inclined to believe that there are reasons to deny this claim that are not in line with my own morals, in particular the average distribution of people's <a href="https://pubmed.ncbi.nlm.nih.gov/37807673/">moral circles</a>. But there are a lot of ways in which this can be not someone's situation, even if it may seem like it:
+
+<ul>
+    <li>The internet greatly decreases the necessity of one's physical presence for many potential avenues for change.</li>
+    <li>It's hard to understand the ins and outs of very different systems to the ones a person is familiar with, meaning it can be easy to describe an avenue for change which seems promising, but doesn't actually make sense in practice. Especially considering the alternative of sending money to a local with much more experience with an area (perhaps even someone who you can talk to about your ideas or convince to implement them if you're particularly confident or narcissistic!), the number of scenarios where the best course of action is to move somewhere wanes rapidly.</li>
+</ul>
+
+With these in mind, it seems that the amount of difference one can make by moving to a very different place, even factoring in the multiplicative power of helping more vulnerable populations is likely not as beneficial as the difference one can make doing their best from home. But
+
+<h3>ii. charity navigator</h3>
+
+this is <i>not</i> the same as abandoning these populations. I've thought recently about the best ways to help underserved populations like this. Understanding them better is certainly a step in the right direction. Another that I've been particularly interested in is helping people understand the relative benefits of supporting local efforts in these nations, which may often have the necessary dedication to make a bigger impact than a similar charity in a more prosperous nation but just not the necessary funding.<br><br>
+
+As such, I discovered the <i><a href=https://www.impactgenome.com/>Impact Genome Registry</a>,</i> a company which makes an attempt to taxonomize the space of all social outcomes into a much more managable and quantifiable hundred-or-so outcomes. This allows them to more uniformly describe the kind of outcome that a charity wishes to create, as well as a cost-per-outcome, based on their reported financial records. This tool isn't perfect:<br>
+
+<ul>
+    <li>Data is reported by the charities, so although this project can reduce the amount of trust needed by minimizing the charity's ability to obscure their outcomes (and providing a relatively-common finances-standardization process achieving the same goal for finances), it does not eliminate it completely.</li>
+    <li>The space of social outcomes is obviously more varied than their taxonomy, so you might be satisfied with one charity and pleased with another, even if their taxonomized outcomes and costs thereof are the same.</li>
+</ul>
+
+However, I think it would be very useful to have a tool with the following properties:<br>
+
+<ul>
+    <li>As inputs:
+        <ul>
+        <li>Someone's moral circle, taxonomized as in the above paper about moral circles (and with values given from this paper by default),</li>
+        <li>Someone's interest in various causes, taxonomized as by the Impact Genome Project</li>
+        <li>Someone's location (so as to best understand which moral circle any given person or group falls into)</li></ul>
+    </li> 
+    <li>As output:<ul>
+        <li>A ranking of charities based on what would be the most benefit to them per dollar, multiplying moral circle value by interest value to calculate benefit, and using Impact Genome Registry data to calculate cost.</li></ul>
+    </li>
+</ul>
+
+Of course, the collection of charities audited by the Impact Genome Project is relatively low, which would make this less valuable in practice. However, it would be relatively simple to calculate average-cost-per-outcome and best-cost-per-outcome for any region and interest (and for a model to be run to guesstimate that of unsupported region-interest pairs or identify outliers), and a dummy "charity" could be included which is just an average. (Here by "region" we include things which may influence our moral circle classification such as religion as well).<br><br>
+
+Furthermore, the moral circle groups include classes which are not easily addressible by charities such as partners, coworkers, and friends. However, with a little bit of legwork regarding where one's money would go if they were to, for example, help out a friend achieve one of these metrics, this information could be entered as well. Non-charity options like this would not only provide a useful tool to understand impact, but also may lead people to understand better their own opinions of various people (and possibly adjust them as well, though this would not be a first-order goal).<br><br>
+
+One question I want to address directly: why not just point people to Givewell? I think that Givewell is an excellent organization which does very valuable research on global impact, but I think that some common responses to coming into contact with Givewell regard people's emotional understandings of their values:
+
+<ul>
+    <li>"I'm deeply connected to X kind of change because of Y story, and Givewell doesn't have anything for me since they don't research that."</li>
+    <li>"I want to support my local community so Givewell doesn't have anything for me."</li>
+</ul>
+
+I think that this tool addresses things like this in two ways:
+
+<ul>
+    <li>People have to enter how much they relatively value different groups of people and different causes in order to see the outcomes, giving them the data of "by supporting the charity I plan to support, I am valuing the people it affects or the causes it supports X times as much as some other specific groups or causes."
+    </li>
+    <li>If people are not interested in changing their assignments of values to groups and causes, then they can simply use the tool to determine what causes and groups make the msot sense for them.</li>
+</ul>
+
+So why haven't I just done it? The Impact Genome Project is very protective of its data. Its registry has a no-scraping policy (and given their UI I don't know if I could scrape data on their purported 2.2 million non-profits and get away with it, even for basic data), and they won't reply to my messages (even when I've offered them money or to relinquish ownership!). There are some other difficulties as well, but I think they would be surmountable. If you have any interest in helping me get their attention (or just helping me in general), reach out!<br><br>
+
+But then again
+
+<h3>iii. reaching out</h3>
+I don't have the highest salary, and even if I did, certainly it would be more beneficial to infect others to give and to help foster a culture of understanding the impacts of such change than it would to just make this change myself? (This is not a new idea, I know.) So I'm hoping to generate the following two deliverables in my life:
+<ul>
+    <li>Create a group of people dedicated to spending a little time researching regions, interests, and local charitable efforts within them, so as to help allocate time, money, or other resources to them to help them in their efforts from our position. Possibly even get them interested in creating tools for others to do the same more easily.</li>
+    <li>Host events with little-to-no overhead which generate money for charity, or otherwise encourage people to consider the traveling power of their money.</li>
+</ul>
+
+For my own selfish purposes, I'm looking to create a group within Indianapolis, so that I can help find new friends with similar goals to mine, hopefully even in a similar age range, but I'm still interested in talking to anyone with similar goals, ideas, or especially experience or expertise!
+    <br>
+      <div id="more"><div id="space"></div><a href="/blog/">go back</a></div>
+    
+    </div>
+    </div>
+  </body>
+</html>
