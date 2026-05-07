@@ -2,39 +2,25 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width">
-    <title>Educational Service - Michael Gintz</title>
+    <meta charset="utf-8">
+    <title>Recreational Math Problems - Michael Gintz</title>
     <link rel="stylesheet" href="../css/style.css" type="text/css"/>
     <!--<link rel="shortcut icon" href="favicon.png">-->
   </head>
   <body>
     <header>
      <h1 id="name" style="padding-bottom:0px;">Michael Gintz</h1>
-     <h3 id="name"style="padding-top:0px;">Educational Service</h3>
+     <h3 id="name"style="padding-top:0px;">Recreational Math Problems</h3>
     </header>
     <div id="eight">
     <div id="whitebox">
-      <b>Curricular teaching:</b><br>
-      2022-2025. <a href="https://www.uic.edu/">University of Illinois Chicago</a>. I was a teaching assistant for Calculus I, Calculus II, Calculus III, and College Algebra; and an instructor of record for an Emerging Scholars Workshop for Calculus II, a support course for Analysis I, and <a href="https://las110.class.uic.edu/">Experience UIC</a>.<br><br>
-
-      <b>Extracurricular teaching:</b><br>
-      2023-2025. <a href="https://sites.google.com/uic.edu/drpatuic/">DRP at UIC</a>. Co-organizer (2023-2025), mentor (2023, 2025), co-founder (2023).<br>
-      2024-2025. <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=CHAGS">Commutative and Homological Algebra Graduate Seminar</a>. Co-organizer.<br>
-      2018-2019. <a href="https://www.peteygreene.org/">Petey Greene Program</a>. Tutor.<br><br>
-
-      <b>Math outreach:</b><br>
-      2022-2025. <a href="https://www.mathcirclesofchicago.org/">Math Circles of Chicago</a>. I worked for their <a href="https://www.mathcirclesofchicago.org/programs/math-circles">math circles</a>, <a href="https://www.mathcirclesofchicago.org/programs/math-festivals">math festivals</a>, and <a href="https://www.mathcirclesofchicago.org/programs/qed">QED symposia</a>.<br>
-      2020. <a href="https://www.math.princeton.edu/climate-and-inclusion/community-and-mentorship">Princeton Math Club</a>. Social chair.<br><br>
-
-      <b>Summer camps:</b><br>
-      2024. <a href="https://sites.google.com/view/yspatuic/">YSP at UIC</a>. Instructor.<br>
-      2019, 2022. <a href="https://mathcamp.org/">Canada/USA Mathcamp</a> (pictured twice). Head <a href="https://mathcamp.org/jobs/college_students/">JC</a>.<br>
-      2016-2017. <a href="https://sites.google.com/site/sbumathcon/">Math Contest Camp</a> (pictured twice). Counselor.<br><br>
-      <img src="mathcamp-2022.jpg" style="height:2in;border:1px solid black"> <img src="mathcamp-2019.jpg" style="height:2in;border:1px solid black"> <img src="math-contest-camp-2017.jpg" style="height:2in;border:1px solid black"> <img src="math-contest-camp-2016.jpg" style="height:2in;border:1px solid black"><br><br>
-
-      <b>Contests:</b><br>
-      2018-2019. <a href="https://pumac.princeton.edu">PUMaC</a> (pictured three times). Head problem czar (2019), head of PUMaC China (2019), problem czar (2018).<br>
-      2018. <a href="https://www.mathcounts.org/">MATHCOUNTS</a> (pictured). Coach of the Arizona team.<br><br>
-      <img src="pumac-2019-head-problem-czar.jpg" style="height:2in;border:1px solid black"> <img src="pumac-2019-head-of-pumac-china.jpg" style="height:2in;border:1px solid black"> <img src="pumac-2018.jpg" style="height:2in;border:1px solid black"> <img src="mathcounts.jpg" style="height:2in;border:1px solid black">
+    <b>One Hundred Wizards.</b> <i>I first heard this problem from <a href="https://www.linkedin.com/in/mira-bernstein-1550a1137/">Mira Bernstein</a>.</i><br>
+    One hundred wizards are placed in a room. An evil warlock gives them a message. “On the other side of this door is a countably infinite number of boxes, each assigned a natural number. Inside each box is a real number. I am going to send you each into the room one at a time. When you enter, you may open as many boxes as you wish, though you must leave at least one closed. You must then pick up a box which you have not opened, guess what real number is in the box, and then open the box. After you leave, I will reset the room before the next wizard enters, and you will not be allowed to tell any of the wizards anything about your findings in the room. If ninety-nine or more of you correctly identify the number in the box, you will all go free. Otherwise, you will all be killed.” The amount of time that the wizards have to discuss their strategy is an arbitrarily large infinite cardinal number, as is the amount of time that each wizard gets in the room. Can they devise a strategy guaranteeing that they may all go free? If so, what is it? Assume the <a href="https://en.wikipedia.org/wiki/Axiom_of_choice">axiom of choice</a>.<br>
+    <details>
+    <summary style="display:inline-block;cursor: pointer;list-style-type:''"><b>Click here to see the solution.</b></summary>
+    <span>Partition the possible sequences of real numbers in the boxes into sets such that two sequences are in the same set if and only if they differ on finitely many entries. Select a representative from each set. When the <i>n</i>-th wizard enters the room, have them sort the boxes into 100 rows, such that the boxes in each row have labels which are increasing and differing buy multiples of 100. Now have the wizard open the boxes in all of the rows except for that containing the label <i>n</i>. Note that for each row of open boxes, there is a representative for the sequence of real numbers it contains. Find the box <i>n</i> whose label is the largest among all boxes whose real numbers differ from their respective representatives. The closed box in the column after that containing <i>B</i> is the one whose containing number we will guess. Have the wizard open every box in the row except for that one. For this row, note that regardless of the value of the closed box, the representative of the sequence found in this row is the same. For our closed box, guess the number found at its position in this representative. A wizard can only guess incorrectly if the last box in their row differs from that row's representative is further to the right as those of all of the other wizards. Such a fate can only befall at most one wizard.</span>
+    </details><br>
+    <b><a href="https://sites.williams.edu/mathriddles/difficulty/very-challenging/you-light-up-for-life/">You Light Up for Life</a>,</b> by <a href="https://web.williams.edu/Mathematics/sjmiller/public_html/">Steven J. Miller</a>.
     <div id="more"><div id="space"></div><a href="../">go back</a></div>
     </div>
     </div>
