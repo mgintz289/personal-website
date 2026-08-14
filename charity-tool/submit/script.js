@@ -88,6 +88,8 @@ addMetricBtn.addEventListener("click", function () {
 
   newGroup.querySelectorAll("select").forEach(sel => sel.selectedIndex = 0);
   newGroup.querySelector(".metric-value").value = "";
+  newGroup.querySelector(".metric-quotable").value = "";
+  newGroup.querySelector(".metric-reasoning").value = "";
   newGroup.querySelector(".subcategory").style.display = "none";
   newGroup.querySelector(".outcome").style.display = "none";
 
@@ -102,6 +104,7 @@ addMetricBtn.addEventListener("click", function () {
 
 function buildCharityData() {
   const charityName = document.getElementById("charityname").value;
+  const linkToAnnualReport = document.getElementById("annualreport").value;
   const metrics = [];
 
   document.querySelectorAll(".metric-group").forEach(group => {
@@ -110,18 +113,23 @@ function buildCharityData() {
     const outcome = group.querySelector(".outcome").value;
     const actual = group.querySelector(".metric-type").value;
     const value = group.querySelector(".metric-value").value;
+    const quotable = group.querySelector(".metric-quotable").value;
+    const reasoning = group.querySelector(".metric-reasoning").value;
 
     metrics.push({
       Category: category,
       Subcategory: subcategory,
       Outcome: outcome,
       Actual: actual,
-      Value: value
+      Value: value,
+      Quotable: quotable,
+      Reasoning: reasoning
     });
   });
 
   return {
     Name: charityName,
+    LinkToAnnualReport: linkToAnnualReport,
     metrics: metrics
   };
 }
@@ -168,9 +176,12 @@ function resetForm() {
   firstGroupNow.querySelector(".outcome").style.display = "none";
   firstGroupNow.querySelector(".metric-type").selectedIndex = 0;
   firstGroupNow.querySelector(".metric-value").value = "";
+  firstGroupNow.querySelector(".metric-quotable").value = "";
+  firstGroupNow.querySelector(".metric-reasoning").value = "";
 
-  // Clear charity name
+  // Clear charity name and annual report link
   document.getElementById("charityname").value = "";
+  document.getElementById("annualreport").value = "";
 
   // Hide the remove button on the now-only group
   updateRemoveButtons();
@@ -178,4 +189,3 @@ function resetForm() {
 
 // Run on page load, in case the browser restored old form values (e.g. bfcache, autofill)
 window.addEventListener("DOMContentLoaded", resetForm);
-

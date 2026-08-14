@@ -15,42 +15,62 @@
 <div id="whitebox">
 Help me gather charity data! Here's a helpful guide.
 <form id="locationForm" style="margin-top:10px">
-  <div class="form-grid">
-    <span>Charity name:</span>
-    <input type="text" id="charityname" required />
+<div class="form-grid">
+<div style="margin-bottom:8px"><span>Charity name:</span>
+<input type="text" id="charityname" required /></div>
 
-    <div id="metrics-container" class="loading">
-      <div class="metric-group">
-        <span>Relevant metric: </span>
-        <div class="dropdown-row">
-          <select class="category" name="cat" required>
-            <option value="">(please select a category)</option>
-          </select>
-          <select class="subcategory" name="subcat" style="display:none" required>
-            <option value="">(please select a subcategory)</option>
-          </select>
-          <select class="outcome" name="outcome" style="display:none" required>
-            <option value="">(please select an outcome)</option>
-          </select>
-        </div>
+<div><span>Link to annual report:</span>
+<input type="url" id="annualreport"/></div>
 
-        <span>Actual metric:</span>
-        <select class="metric-type" name="metrictype" required>
-          <option value="Stated">Stated metric</option>
-          <option value="Research">Associated research metric</option>
-          <option value="Advocacy">Associated advocacy metric</option>
-        </select>
+<div id="metrics-container" class="loading">
+<div class="metric-group">
 
-        <span>Metric value:</span>
-        <input class="metric-value" pattern="^\d*\.?\d+$" required/>
+<table class="metric-fields-table">
+<tr>
+<td><label>Relevant metric:</label></td>
+<td>
+<select class="category" name="cat" required>
+<option value="">(please select a category)</option>
+</select>
+<select class="subcategory" name="subcat" style="display:none" required>
+<option value="">(please select a subcategory)</option>
+</select>
+<select class="outcome" name="outcome" style="display:none" required>
+<option value="">(please select an outcome)</option>
+</select>
+</td>
+</tr>
+<tr>
+<td><label>Actual metric:</label></td>
+<td>
+<select class="metric-type" name="metrictype" required>
+<option value="Stated">Stated metric</option>
+<option value="Research">Associated research metric</option>
+<option value="Advocacy">Associated advocacy metric</option>
+</select>
+</td>
+</tr>
+<tr>
+<td><label>Metric value:</label></td>
+<td><input class="metric-value" pattern="^\d*\.?\d+$" required/></td>
+</tr>
+<tr>
+<td><label>Quotable:</label></td>
+<td><textarea class="metric-quotable" rows="2"></textarea></td>
+</tr>
+<tr>
+<td><label>Reasoning:</label></td>
+<td><textarea class="metric-reasoning" rows="2"></textarea></td>
+</tr>
+</table>
 
-        <span></span>
-        <button type="button" class="remove-metric" style="display:none">Remove metric</button>
-      </div>
-    </div>
-  </div>
-  <button type="button" id="new-metric">Add another metric</button><br>
-  <button type="submit" id="button-submit">Submit</button>
+<span></span>
+<button type="button" class="remove-metric" style="display:none">Remove metric</button>
+</div>
+</div>
+</div>
+<button type="button" id="new-metric">Add another metric</button><br>
+<button type="submit" id="button-submit">Submit</button>
 </form>
 <div id="more"><div id="space"></div><a href="../">go back</a></div>
 </div>

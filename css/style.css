@@ -348,14 +348,14 @@ td#donoleft {
 
 /*slop*/
 
-.form-grid {
+/* .form-grid {
   display: grid;
   grid-template-columns: max-content 1fr;
   column-gap: 4px;
   row-gap: 12px;
   align-items: center;
   justify-items: start;
-}
+} */
 
 /* Let these wrapper divs "disappear" so their children join the outer grid */
 #metrics-container,
@@ -375,8 +375,12 @@ td#donoleft {
 }
 
 .remove-metric {
-  margin-top: -4px; /* tighten it up since it no longer has metric-group's own spacing */
-  margin-bottom:12px;
+  margin-top: 8px; /* tighten it up since it no longer has metric-group's own spacing */
+  /* margin-bottom:12px; */
+}
+
+#new-metric {
+	margin-top:8px;
 }
 
 #metrics-container.loading {
@@ -562,3 +566,58 @@ td#donoleft {
     margin-bottom:.3em; */
     /* border-radius:999px; */
 }
+
+
+
+.metric-fields-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top:8px;
+  /* margin-bottom:8px; */
+}
+.metric-fields-table td {
+  padding: 8px;
+  vertical-align: top;
+}
+.metric-fields-table td:first-child {
+  padding: 8px 0 8px 8px;
+  white-space: nowrap;
+  text-align: right;
+  width: 0px;
+}
+.metric-fields-table select,
+.metric-fields-table input,
+.metric-fields-table textarea {
+  /* width: 100%; */
+  box-sizing: border-box;
+}
+.metric-fields-table textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+/*
+.metric-fields-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 6px;
+}
+.metric-fields-table td {
+  padding: 4px 8px;
+  vertical-align: top;
+  text-align:left;
+}*/
+/*
+.metric-fields-table td:first-child {
+  white-space: nowrap;
+  text-align: right;
+  width: 1%;
+}
+.metric-fields-table select,
+.metric-fields-table input,
+.metric-fields-table textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+*/
