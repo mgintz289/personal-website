@@ -621,3 +621,107 @@ td#donoleft {
   box-sizing: border-box;
 }
 */
+
+
+/* isso stuff */
+#isso-thread * {
+  box-shadow: none !important;
+}
+#isso-thread *:not(.isso-reply):not(.isso-edit):not(.isso-delete) {
+  color: black;
+}
+
+h4.isso-thread-heading {
+	color: black !important;
+	margin-bottom: 8pt !important;
+}
+
+.isso-follow-up {
+	padding-left: 0 !important;
+}
+
+.isso-follow-up .isso-text-wrapper {
+	padding-left: 1em !important;
+}
+
+.isso-text-wrapper {
+	padding: .3em 0pt .3em 0pt !important;
+	margin-bottom: .25em !important;
+}
+
+.isso-comment {
+	margin-bottom: 0 !important;
+	max-width:100% !important;
+}
+
+section>.isso-postbox {
+	margin: 0 auto 1em !important;
+	max-width:100% !important;
+}
+
+div>.isso-postbox {
+	margin:0.8em auto 0 !important;
+	max-width:100% !important;
+}
+
+a:hover {
+	color: revert-layer !important;
+	text-shadow: none !important;
+}
+
+.isso-post-action > input {
+	color: revert-layer !important;
+	padding: revert-layer !important;
+	border-radius: revert-layer !important;
+	border: revert-layer !important;
+	background-color: revert-layer !important;
+	cursor: revert-layer !important;
+	outline: revert-layer !important;
+	line-height: revert-layer !important;
+	box-shadow: revert-layer !important;
+}
+.isso-input-wrapper input {
+	display: block;
+	padding: revert-layer !important;
+	max-width: 100%;
+	border-radius: revert-layer !important;
+	background-color: revert-layer !important;
+	line-height: revert-layer !important;
+	border: revert-layer !important;
+	box-shadow: revert-layer !important;
+}
+
+.isso-textarea {
+	/* margin: revert-layer !important; */
+	padding: 4pt !important;
+	border-radius: revert-layer !important;
+	background-color: revert-layer !important;
+	border: revert-layer !important;
+	box-shadow: revert-layer !important;
+}
+.isso-input-wrapper label {
+	display: block;
+	line-height: revert-layer !important;
+	height: revert-layer !important;
+	margin-bottom: .25em !important;
+}
+:root {
+	--isso-comment-divider-color: black !important;
+}
+input:focus, textarea:focus, select:focus {
+    outline: none !important;
+    /* box-shadow: none; */
+}
+textarea {
+	font-family: Charter !important;
+}
+.isso-input-wrapper:has(#isso-postbox-email,#isso-postbox-website) {
+	display: none !important;
+}
+details {
+	border:1px solid black;
+	padding:5pt;
+}
+summary::marker {
+	content:""
+}
