@@ -1,4 +1,229 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://mgintz.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mgintz.com/blog/" rel="alternate" type="text/html" /><updated>2026-04-13T15:34:45-04:00</updated><id>https://mgintz.com/blog/feed.xml</id><title type="html">Blog - Michael Gintz</title><subtitle>Michael Gintz&apos;s blog</subtitle><entry><title type="html">To say very little of feeling good</title><link href="https://mgintz.com/blog/2026/04/13/to-say-very-little-of-feeling-good/" rel="alternate" type="text/html" title="To say very little of feeling good" /><published>2026-04-13T00:00:00-04:00</published><updated>2026-04-13T00:00:00-04:00</updated><id>https://mgintz.com/blog/2026/04/13/to-say-very-little-of-feeling-good</id><content type="html" xml:base="https://mgintz.com/blog/2026/04/13/to-say-very-little-of-feeling-good/"><![CDATA[<h3>i. on doing something different</h3>
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <link href="https://mgintz.com/blog/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://mgintz.com/blog/" rel="alternate" type="text/html" />
+  <updated>2026-10-27T15:47:00-04:00</updated>
+  <id>https://mgintz.com/blog/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Blog - Michael Gintz | </title>
+  
+
+  
+    <subtitle>Michael Gintz&apos;s blog</subtitle>
+  
+
+  
+
+  
+
+  
+
+  <!--  -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <entry>
+      
+
+      <title type="html">How I find good charities</title>
+      <link href="https://mgintz.com/blog/2026/10/27/how-i-find-good-charities/" rel="alternate" type="text/html" title="How I find good charities" />
+      <published>2026-10-27T00:00:00-04:00</published>
+      <updated>2026-10-27T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2026/10/27/how-i-find-good-charities</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2026/10/27/how-i-find-good-charities/"><![CDATA[I'm going to start with the advertisement: if you're impact-minded potential philanthropic donor, and you want a free and accessible way to understand impact and compare organizations in a way that aligns with your values, then I recommend the following procedure (based on my Impact Workbook: see the <a href="impact-enumeration.pdf">Impact Enumeration</a> and <a href="impact-evaluation.pdf">Impact Evaluation</a> portions of the printed version, or the <a href="impact-workbook.xlsx">digital version</a>):
+<ol>
+    <li>Find a list of charities to consider. I suggest the following procedure:
+        <ol type="a">
+        <li>Start by adding a few organizations from impactful-charities lists:
+            <ul type="disc">
+                <li><a href="https://www.charitynavigator.org/discover-charities/cause-based-giving/">Causeway</a> is a platform owned by CharityNavigator that has a few curated lists of impactful charities. As of writing they have the following categories. <!--<i>I selected two charities each from five of these categories.</i>-->
+                    <ul type="disc">
+                        <li>Animal Welfare Fund</li>
+                        <li>Climate Change Fund</li>
+                        <li>End Homelessness Fund</li>
+                        <li>End Hunger Fund</li>
+                        <li>Environmental Action Fund</li>
+                        <li>Global Health Fund</li>
+                        <li>Global Poverty Fund</li>
+                        <li>Improve Education Fund</li>
+                        <li>LGBTQIA+ Support Fund</li>
+                        <li>Veterans & Military Assistance Fund</li>
+                        <li>Womens Health & Wellbeing Fund</li>
+                    </ul>
+                </li>
+                <li><a href="https://www.happierlivesinstitute.org/charities/">The Happier Lives Institute</a> attempts to measure impact by subjective wellbeing. <!--<i>I selected two charities from this list.</i>--></li>
+                <li><a href="https://www.givewell.org/charities/top-charities">Givewell</a> seeks to "save or improve lives the most per dollar." <!--<i>I selected four charities from this list.</i>--></li>
+            </ul>
+        </li>
+        <li>For causes or demographics you feel are under-represented by these companies relative to your own values, go out and search for a few that seem worth considering. Like shopping for cereal or financial products, there are a lot of organizations out there, and you probably don't have time in one lifetime to personally sit with them all, so be realistic about how much time and energy you want to spend searching for options. This is not the step where you really inspect whether a charity deserves your money—we simply want to do a reasonable amount of looking for options before we restrict our attention to those options. <!--<i>I found 14 charities through <a href="https://impactassets.org/ia50/">ImpactAssets</a>, an organization that studies impact investing funds.</i>-->
+        </li>
+        </ol>
+    </li>
+    <li>Fill out <a href="impact-enumeration.pdf">Impact Enumeration sheets</a> and then <a href="impact-evaluation.pdf">Impact Evaluation sheets</a> for each (or use the digital <a href="impact-workbook.xlsx">Impact Evaluation Workbook</a>). <a href="completed-workbooks/">See the list of Impact Workbooks I've already filled out.</a> <a href="how-to-fill-out-impact-workbooks/">How to fill out Impact Enumeration and Impact Evaluation sheets.</a></li>
+    <li>Gaze upon your filled-out Impact Worksheets, and make a decision by whatever methods you choose. (If you find none which are acceptable for you to give to, decide whether you want to go back, spend more time adding charities to your list, and start the process over.)</li>
+</ol>
+
+<hr>
+
+There are many ways to donate your money. We consider the following predicaments:<br><br>
+
+<b>Predicament 1.</b> I've got some money that I want to donate to a good cause, but I'm not sure where it should go, if anywhere.<br><br>
+
+<b>Predicament 2.</b> I've got some money that I want to donate to a good cause, and an organization I might want it to go to, but I'm not sure whether I ought to give it to them.<br><br>
+
+For <i>impact-focused</i> individuals, those who are significantly interested in what their donation will do when faced with these kinds of predicaments, Predicament 1 is often solved by undergoing the following three-step process:<br>
+<ol>
+    <li>Narrow the list of organizations I want to donate to down to a meaningfully finite list.</li>
+    <li>Determine, for each of these organizations, the impact my donation would have.</li>
+    <li>Give to some subset of them based on these determinations.</li>
+</ol>
+This process can be easily modified to solve Predicament 2 by knocking off the first step.<br><br>
+
+The Impact Workbook seeks most directly to address the second step. I believe the Impact Workbook came from a few different frustrations while trying to complete this step:<br><br>
+<b>1. The rigidity of cost-effectiveness evaluators.</b> I want to find a charity that's <i>cost-effective</i>, that is, relative to how much money it spends, I want it to produce a lot of value. This kind of calculation is pretty difficult: there are lots of questions you have to ask yourself which are not only hard to answer but also hard to intuit the implications of. Luckily there are actually a great number of organizations who are solely or significantly dedicated to answering this question: <a href="https://www.givewell.org/">Givewell</a>, CharityNavigator's <a href="https://www.charitynavigator.org/discover-charities/cause-based-giving/">Causeway</a>, <a href="https://www.givingwhatwecan.org/">GivingWhatWeCan</a>, the <a href="https://www.happierlivesinstitute.org/">Happier Lives Insitute</a>, and others. For many, their answers are pretty highly satisfying. A lot of these organizations flex strong research arms. However, (as evidenced by the fact that there are so many of these), problems arise for you if you don't agree with all of the assumptions of one of these organizations. You can still greatly benefit from the research that they're doing if you're interested in the causes they care about (and luckily, in my opinion, most of these causes are pretty uncontroversial and should appeal to many), but if there is a cause that <i>you</i> care about that they don't, not only will they probably not have looked into it but also this may impact the relevance of their "top picks" to you.<br><br>
+
+The two attempted solutions the world had to this problem until now were:
+<ul>
+    <li>paying a team of researchers yourself, or</li>
+    <li>doing a bunch of hardcore research yourself, or</li>
+    <li>using the <a href="https://www.impactgenome.com/">Impact Genome's</a> registry, which has since been made private.</li>
+</ul>
+The first two of these were unsatisfying for price and accessibility reasons, and the third (when it was still free and available) still left a lot to be desired: there was still a finite amount of categories (somewhere in the 130s) that were considered, and each organization was measured within each of those categories was measured by some system standardized in a way that was opaque to the user and specific to the values of the team. Furthermore, there was no tool that allowed you to weigh each of those categories against each other and then be presented with the most effective organization for you (creating such a tool by recreating a lot of their work so as to not steal their IP was the first form of my plan), and there were no benchmarks available to help make a tool to suggest effective avenues of giving (which, again, would have been made much simpler to do independently if their information was freely available to be scraped and analyzed).<br><br>
+
+<b>2. Lack of trust / abundance of information.</b> Charities have a strong incentive to talk up their impact, be it through representing one outcome in many ways, downplaying inefficiency, or simply stating things in confusing ways. However, when trying to shovel through their provided information yourself, it can feel like a firehose to figure out what all an organization is up to without a procedure for distilling that information, and even after finding out what they do it can feel overwhelming to try to weigh a large amount of very distinct outcomes with a bunch of financial information.
+<br><br>
+
+With these two in mind, the Impact Workbook provides a procedure for:
+<ul>
+    <li>synthesizing a philanthropic organization into its component parts,</li>
+    <li>evaluating those parts using any available information, at the level of depth desired by the user and using their own personal values without having to compromise to those of a steward organization.</li>
+</ul>
+I think it will help especially people who have felt these types of ways about philanthropic giving: if any of this speaks to you, I recommend you check it out!<br><br>
+
+Finally, before formally ending this post, I want to make a caveat on the use of the Impact Workbook: you don't have to just donate to the organization that has the highest Value per Dollar Spent when you're done. This is for a couple reasons:
+<ul>
+    <li>Looking at these relative values might make you question how much you value different things, or realize that you weren't really evaluating the quantiites the same way.</li>
+    <li>You might find yourself saying "I feel more motivated to give to someone nearby, even though it is less cost-effective." Whether you think this is a moral fault or not, this thinking often keeps people from giving at all, since they don't feel motivated to give to the more effective organization but also don't feel right giving to a less effective one that they are more motivated to give to otherwise. I encourage you to give effectively and to recognize how much less efficient your choices are than the most efficient ones according to your own values, but if you believe that there is positive value in giving, then give to something rather than nothing.</li>
+</ul>
+<hr>
+P.S. (some notes about the process)<br><br>
+
+I originally envisioned a webtool that would:
+<ul>
+    <li>Ask you about your values at a high level, going more specific where it felt like it was needed,</li>
+    <li>determine numerical weights for different charitable outcomes, based on your answers, and then</li>
+    <li>spit out the charities which are most cost-effective to you based on these weights.</li>
+</ul>
+
+I began with 100 or so categories that an organization's outcomes could be partitioned into, and then attempted to measure stated charitable outcomes against benchmarks in these categories. However, what I realized was that not only was there very little research avaiable to make solid benchmarks either on efficiency or impact, but these categories were so broad that a user who wanted to determine if their values were represented by the tool would basically be doing the same amount of work as is currently required by the Impact Workbook, but in a much more inconvenient form. Thus the Impact Workbook was born.]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[I'm going to start with the advertisement: if you're impact-minded potential philanthropic donor, and you want a free and accessible way to understand impact and compare organizations in a way that aligns with your values, then I recommend the following procedure (based on my Impact Workbook: see the Impact Enumeration and Impact Evaluation portions of the printed version, or the digital version): Find a list of charities to consider. I suggest the following procedure: Start by adding a few organizations from impactful-charities lists: Causeway is a platform owned by CharityNavigator that has a few curated lists of impactful charities. As of writing they have the following categories. Animal Welfare Fund Climate Change Fund End Homelessness Fund End Hunger Fund Environmental Action Fund Global Health Fund Global Poverty Fund Improve Education Fund LGBTQIA+ Support Fund Veterans & Military Assistance Fund Womens Health & Wellbeing Fund The Happier Lives Institute attempts to measure impact by subjective wellbeing. Givewell seeks to "save or improve lives the most per dollar." For causes or demographics you feel are under-represented by these companies relative to your own values, go out and search for a few that seem worth considering. Like shopping for cereal or financial products, there are a lot of organizations out there, and you probably don't have time in one lifetime to personally sit with them all, so be realistic about how much time and energy you want to spend searching for options. This is not the step where you really inspect whether a charity deserves your money—we simply want to do a reasonable amount of looking for options before we restrict our attention to those options. Fill out Impact Enumeration sheets and then Impact Evaluation sheets for each (or use the digital Impact Evaluation Workbook). See the list of Impact Workbooks I've already filled out. How to fill out Impact Enumeration and Impact Evaluation sheets. Gaze upon your filled-out Impact Worksheets, and make a decision by whatever methods you choose. (If you find none which are acceptable for you to give to, decide whether you want to go back, spend more time adding charities to your list, and start the process over.)]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">A world that doesn’t need me</title>
+      <link href="https://mgintz.com/blog/2026/04/13/a-world-that-doesnt-need-me/" rel="alternate" type="text/html" title="A world that doesn’t need me" />
+      <published>2026-04-13T00:00:00-04:00</published>
+      <updated>2026-04-13T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2026/04/13/a-world-that-doesnt-need-me</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2026/04/13/a-world-that-doesnt-need-me/"><![CDATA[It was pointed out to me recently that mathematicians seem to be taking the AI boom harder than many. [This might be because mathematicians want to be heroes CITE noahpinion]. I think this is a pretty good explanation. Even though my departure from mathematics is (nominally) not AI-motivated, and I (unlike some of my peers) am not particularly heartbroken about leaving my mathematical skills behind, I still find myself struggling to find a place where I can make a difference, probably using this meterstick. Especially [since I don't really want to be a tokenmaxxer]. It's felt like everywhere I turn, when I think of a way to make a difference, it's something that AI could do easily, so what's the point? I think a lot of this is the feeling that what I bring to the table is intelligence. And intelligence is very close to the thing that AI can do. But it feels like, then, the problem is universal: that there's nothing that I can do to make the world a better place, because AI can do it just as well.
+
+I'm left with two outstanding attacks to this:
+
+1. Is using AI to solve the problem I have in mind worth the environmental cost? If no, I can't say I'm not making a difference (but my difference in the world will be environmental).
+
+2. If there's nothing I can contribute, this means that all of the problems out there are not problems I think I can solve either without AI or with AI in a way thats environmentally sufficient. Is this really the case? All of the war and poverty and inequality I just think is intractable?
+
+
+
+a similar problem: 
+
+
+if nobody needs my skill,]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[It was pointed out to me recently that mathematicians seem to be taking the AI boom harder than many. [This might be because mathematicians want to be heroes CITE noahpinion]. I think this is a pretty good explanation. Even though my departure from mathematics is (nominally) not AI-motivated, and I (unlike some of my peers) am not particularly heartbroken about leaving my mathematical skills behind, I still find myself struggling to find a place where I can make a difference, probably using this meterstick. Especially [since I don't really want to be a tokenmaxxer]. It's felt like everywhere I turn, when I think of a way to make a difference, it's something that AI could do easily, so what's the point? I think a lot of this is the feeling that what I bring to the table is intelligence. And intelligence is very close to the thing that AI can do. But it feels like, then, the problem is universal: that there's nothing that I can do to make the world a better place, because AI can do it just as well.]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">To say very little of feeling good</title>
+      <link href="https://mgintz.com/blog/2026/04/13/to-say-very-little-of-feeling-good/" rel="alternate" type="text/html" title="To say very little of feeling good" />
+      <published>2026-04-13T00:00:00-04:00</published>
+      <updated>2026-04-13T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2026/04/13/to-say-very-little-of-feeling-good</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2026/04/13/to-say-very-little-of-feeling-good/"><![CDATA[<h3>i. on doing something different</h3>
 I have spent a lot of time thinking about the following questions:<br>
 
 <ul>
@@ -79,7 +304,47 @@ I don't have the highest salary, and even if I did, certainly it would be more b
     <li>Host events with little-to-no overhead which generate money for charity, or otherwise encourage people to consider the traveling power of their money.</li>
 </ul>
 
-For my own selfish purposes, I'm looking to create a group within Indianapolis, so that I can help find new friends with similar goals to mine, hopefully even in a similar age range, but I'm still interested in talking to anyone with similar goals, ideas, or especially experience or expertise!]]></content><author><name></name></author><summary type="html"><![CDATA[i. on doing something different I have spent a lot of time thinking about the following questions:]]></summary></entry><entry><title type="html">The song helmet</title><link href="https://mgintz.com/blog/2026/03/09/the-song-helmet/" rel="alternate" type="text/html" title="The song helmet" /><published>2026-03-09T00:00:00-04:00</published><updated>2026-03-09T00:00:00-04:00</updated><id>https://mgintz.com/blog/2026/03/09/the-song-helmet</id><content type="html" xml:base="https://mgintz.com/blog/2026/03/09/the-song-helmet/"><![CDATA[At my brother's behest, I have adapted an excellent conversation we had into a blog post to the best of my ability here.<br><br>
+For my own selfish purposes, I'm looking to create a group within Indianapolis, so that I can help find new friends with similar goals to mine, hopefully even in a similar age range, but I'm still interested in talking to anyone with similar goals, ideas, or especially experience or expertise!]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[i. on doing something different I have spent a lot of time thinking about the following questions:]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">The song helmet</title>
+      <link href="https://mgintz.com/blog/2026/03/09/the-song-helmet/" rel="alternate" type="text/html" title="The song helmet" />
+      <published>2026-03-09T00:00:00-04:00</published>
+      <updated>2026-03-09T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2026/03/09/the-song-helmet</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2026/03/09/the-song-helmet/"><![CDATA[At my brother's behest, I have adapted an excellent conversation we had into a blog post to the best of my ability here.<br><br>
 
 You're a musician, and you've just thought of the perfect song. You can hear it so clearly in your head: every chord, every overtone, every byte of every twinkle and trill. You rush to your studio to convert your song from <code>.thought</code> to <code>.mp3</code>. You lay down some riffs, record your vocals, play around with the synths. You mix, master, chop, screw, bend, fold, spindle, mutilate, crease, crumple, cram...<br><br>
 
@@ -101,7 +366,47 @@ You do some napkin math. For a 3-minute song, you were looking at 500 hours. Abo
 
 As you hand the helmet to the interested young man who you met on Facebook, you give him one condition: <i>when I find the right song, I'll be calling you to borrow this. You'd better pick up</i>.<br><br>
 
-And you do end up calling him. Once, near the end of your career, you find a song so perfect, so demanding of precision and so beyond what could be made with modern understanding, that you do it, after a year of preparing you sit there for months and months and just wait for your song to be made. And indeed, you've still got that unmatched talent for imagination: it surpasses even your previous big hit, and you not only absolutely cash out, but are blessed with a great joy of getting to share such a great and clever and unique thought with so many people, on a scale you don't find possible the rest of the time. But most of your days are spent messing around with funny fingerings and playing with plugins, working with your little team of other passionate musicians, bouncing ideas off each other. <i>Feeling</i> the music. Life's long, but it's still short enough that you should try to feel something once in a while for Christ's sake.]]></content><author><name></name></author><summary type="html"><![CDATA[At my brother's behest, I have adapted an excellent conversation we had into a blog post to the best of my ability here.]]></summary></entry><entry><title type="html">A collection of poems about the Science and Engineering Offices</title><link href="https://mgintz.com/blog/2025/12/02/a-collection-of-poems-about-the-science-and-enginnering-offices/" rel="alternate" type="text/html" title="A collection of poems about the Science and Engineering Offices" /><published>2025-12-02T00:00:00-05:00</published><updated>2025-12-02T00:00:00-05:00</updated><id>https://mgintz.com/blog/2025/12/02/a-collection-of-poems-about-the-science-and-enginnering-offices</id><content type="html" xml:base="https://mgintz.com/blog/2025/12/02/a-collection-of-poems-about-the-science-and-enginnering-offices/"><![CDATA[<b>300</b><br><br>
+And you do end up calling him. Once, near the end of your career, you find a song so perfect, so demanding of precision and so beyond what could be made with modern understanding, that you do it, after a year of preparing you sit there for months and months and just wait for your song to be made. And indeed, you've still got that unmatched talent for imagination: it surpasses even your previous big hit, and you not only absolutely cash out, but are blessed with a great joy of getting to share such a great and clever and unique thought with so many people, on a scale you don't find possible the rest of the time. But most of your days are spent messing around with funny fingerings and playing with plugins, working with your little team of other passionate musicians, bouncing ideas off each other. <i>Feeling</i> the music. Life's long, but it's still short enough that you should try to feel something once in a while for Christ's sake.]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[At my brother's behest, I have adapted an excellent conversation we had into a blog post to the best of my ability here.]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">A collection of poems about the Science and Engineering Offices</title>
+      <link href="https://mgintz.com/blog/2025/12/02/a-collection-of-poems-about-the-science-and-enginnering-offices/" rel="alternate" type="text/html" title="A collection of poems about the Science and Engineering Offices" />
+      <published>2025-12-02T00:00:00-05:00</published>
+      <updated>2025-12-02T00:00:00-05:00</updated>
+      <id>https://mgintz.com/blog/2025/12/02/a-collection-of-poems-about-the-science-and-enginnering-offices</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2025/12/02/a-collection-of-poems-about-the-science-and-enginnering-offices/"><![CDATA[<b>300</b><br><br>
 
 Not much changes
 when the day ends
@@ -154,7 +459,47 @@ at the game,<br>
 and halfway across the world,<br>
 but she cannot fool me.<br><br>
 You come to life as you enter the room<br>
-and die as you go.]]></content><author><name></name></author><summary type="html"><![CDATA[300]]></summary></entry><entry><title type="html">Moral permission for misconduct malfeasance and wrongdoing</title><link href="https://mgintz.com/blog/2025/07/02/moral-permission-for-misconduct-malfeasance-and-wrongdoing/" rel="alternate" type="text/html" title="Moral permission for misconduct malfeasance and wrongdoing" /><published>2025-07-02T00:00:00-04:00</published><updated>2025-07-02T00:00:00-04:00</updated><id>https://mgintz.com/blog/2025/07/02/moral-permission-for-misconduct-malfeasance-and-wrongdoing</id><content type="html" xml:base="https://mgintz.com/blog/2025/07/02/moral-permission-for-misconduct-malfeasance-and-wrongdoing/"><![CDATA[<b>Mantra 1.</b> You should feel comfortable being yourself around those close to you.<br><br>
+and die as you go.]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[300]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">Moral permission for misconduct malfeasance and wrongdoing</title>
+      <link href="https://mgintz.com/blog/2025/07/02/moral-permission-for-misconduct-malfeasance-and-wrongdoing/" rel="alternate" type="text/html" title="Moral permission for misconduct malfeasance and wrongdoing" />
+      <published>2025-07-02T00:00:00-04:00</published>
+      <updated>2025-07-02T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2025/07/02/moral-permission-for-misconduct-malfeasance-and-wrongdoing</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2025/07/02/moral-permission-for-misconduct-malfeasance-and-wrongdoing/"><![CDATA[<b>Mantra 1.</b> You should feel comfortable being yourself around those close to you.<br><br>
 
 I like this mantra but I think the ambiguity in the phrase "being yourself" can be easily abused. Of course there are some aspects of oneself which are neutral or even positive in nature, which might comprise slight annoyances in those around them but which everyone generally agrees they should be allowed to express. But how much can one "get away" with under this mantra? Well of course it depends on how we define "being yourself." Consider first the following<br><br>
 
@@ -198,7 +543,47 @@ My thoughts on this are more in line with those of <a href="https://www.youtube.
 
 <blockquote>I really like the elephant rider metaphor where, like, our bodies are the elephant, and our consciousness is the person like, driving the elephant? We all have many situations where we've realized that we would like to go somewhere but the elephant doesn't want to go that way and it simply <i>will not</i>. We just <i>can't</i> in that moment stop ourselves from saying the mean thing, from making the bad decision, from finishing the burrito, even though you are stuffed full of burrito.</blockquote><br>
 
-But while I personally disagree (and I think a lot of the belief in this mantra comes from belief in Mantra 3), we likely agree in the end on Mantra 2 (and on many other practicalities of our sets of beliefs), even though you may believe it stands on its own rather than living within Mantra 1. And lucky you, you are probably more immune to the kinds of manipulation described in this post! Yay!]]></content><author><name></name></author><summary type="html"><![CDATA[Mantra 1. You should feel comfortable being yourself around those close to you.]]></summary></entry><entry><title type="html">Headstones</title><link href="https://mgintz.com/blog/2025/04/16/headstones/" rel="alternate" type="text/html" title="Headstones" /><published>2025-04-16T00:00:00-04:00</published><updated>2025-04-16T00:00:00-04:00</updated><id>https://mgintz.com/blog/2025/04/16/headstones</id><content type="html" xml:base="https://mgintz.com/blog/2025/04/16/headstones/"><![CDATA[first post on this blog<br>
+But while I personally disagree (and I think a lot of the belief in this mantra comes from belief in Mantra 3), we likely agree in the end on Mantra 2 (and on many other practicalities of our sets of beliefs), even though you may believe it stands on its own rather than living within Mantra 1. And lucky you, you are probably more immune to the kinds of manipulation described in this post! Yay!]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[Mantra 1. You should feel comfortable being yourself around those close to you.]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">Headstones</title>
+      <link href="https://mgintz.com/blog/2025/04/16/headstones/" rel="alternate" type="text/html" title="Headstones" />
+      <published>2025-04-16T00:00:00-04:00</published>
+      <updated>2025-04-16T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2025/04/16/headstones</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2025/04/16/headstones/"><![CDATA[first post on this blog<br>
 dont think it is my first post on wordpress<br>
 it is not my first blog post<br>
 many have come before<br>
@@ -256,7 +641,47 @@ holy shit have you guys seen this mishima movie??? crazy right<br><br>
 
 Nine Inch Nails, <i>Pretty Hate Machine</i><br>song that most caught my attention was The Only Time; this album is not claustrophobic, but its definitely a soundtrack for being in a small space, or an abandoned warehouse at night, big shiny fan slowly spinning from the wind and letting moonlight in to shine upon dirty insides, sweaty and godless places. the music itself does a great job at being ugly. it is a dryness around wet things. go listen<br><br>
 
-Black Midi, <i>Cavalcade</i><br>Finally got around to this - long standing item in my music queue. Telling you to listen to this a few listens shy of when I should, mostly because I want this blog post to be UP! But it's got some cheeky rhythms and rhymes, smooth songs mixed in with the chaotic, if you like the musical feeling of having control and then losing it (as opposed to, say, hyperpop, where you are never given it to begin with, here we begin with a base of familiar instruments, familiar patterns, and they dive with us into madness) then give it a go!]]></content><author><name></name></author><summary type="html"><![CDATA[first post on this blog dont think it is my first post on wordpress it is not my first blog post many have come before whether others come after is not for me to decide a blog is not a monument it is a way for me to talk to you(, to imagine perception, to interpret imagination)]]></summary></entry><entry><title type="html">hot summer night and i’m packing my neocortex</title><link href="https://mgintz.com/blog/2024/04/06/hot-summer-night-and-i'm-packing-my-neocortex/" rel="alternate" type="text/html" title="hot summer night and i’m packing my neocortex" /><published>2024-04-06T00:00:00-04:00</published><updated>2024-04-06T00:00:00-04:00</updated><id>https://mgintz.com/blog/2024/04/06/hot-summer-night-and-i&apos;m-packing-my-neocortex</id><content type="html" xml:base="https://mgintz.com/blog/2024/04/06/hot-summer-night-and-i&apos;m-packing-my-neocortex/"><![CDATA[written May 25, 2023; posted with clerical edits<br><br>
+Black Midi, <i>Cavalcade</i><br>Finally got around to this - long standing item in my music queue. Telling you to listen to this a few listens shy of when I should, mostly because I want this blog post to be UP! But it's got some cheeky rhythms and rhymes, smooth songs mixed in with the chaotic, if you like the musical feeling of having control and then losing it (as opposed to, say, hyperpop, where you are never given it to begin with, here we begin with a base of familiar instruments, familiar patterns, and they dive with us into madness) then give it a go!]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[first post on this blog dont think it is my first post on wordpress it is not my first blog post many have come before whether others come after is not for me to decide a blog is not a monument it is a way for me to talk to you(, to imagine perception, to interpret imagination)]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">hot summer night and i’m packing my neocortex</title>
+      <link href="https://mgintz.com/blog/2024/04/06/hot-summer-night-and-i'm-packing-my-neocortex/" rel="alternate" type="text/html" title="hot summer night and i’m packing my neocortex" />
+      <published>2024-04-06T00:00:00-04:00</published>
+      <updated>2024-04-06T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2024/04/06/hot-summer-night-and-i&apos;m-packing-my-neocortex</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2024/04/06/hot-summer-night-and-i&apos;m-packing-my-neocortex/"><![CDATA[written May 25, 2023; posted with clerical edits<br><br>
 
 sleepless nights in a dorm bedroom with one of those god-awful dorm room matresses, with metal being sprung right into you and no discernible padding whatsoever. its hot. its humid. i may have had a thai tea that day. all the cold that it had when i drank it is long gone now. is that why i cant sleep? because of the caffeine? why i'm not thinking about anything very strenuously at all but my brain feels like it's running like an engine, pumping blood through itself so fast i can hear the friction between my blood cells and the walls of my veins? surely not. caffeine makes you alert; everything is swirling around me and sweeping me away; that isn't alertness.<br><br>
 
@@ -268,7 +693,47 @@ happiness is a concept too difficult to be able to continuously understand throu
 
 but when i do understand it, and i am not flooded with exhaustion, i can see that it fills me<br><br>
 
-for a split second, i am happy. the next split-second, i am asleep.]]></content><author><name></name></author><summary type="html"><![CDATA[written May 25, 2023; posted with clerical edits]]></summary></entry><entry><title type="html">Stop telling me it’s okay to be still</title><link href="https://mgintz.com/blog/2023/06/10/Stop-telling-me-it's-okay-to-be-still/" rel="alternate" type="text/html" title="Stop telling me it’s okay to be still" /><published>2023-06-10T00:00:00-04:00</published><updated>2023-06-10T00:00:00-04:00</updated><id>https://mgintz.com/blog/2023/06/10/Stop-telling-me-it&apos;s-okay-to-be-still</id><content type="html" xml:base="https://mgintz.com/blog/2023/06/10/Stop-telling-me-it&apos;s-okay-to-be-still/"><![CDATA[One loud, resounding <i>Click!</i> of the metal edge of Mrs. Williams' ruler against her music stand after another, each more desperate than the last, the first few clicks simply calling for our attention, the next few screaming for it, the last few begging for their lives, each with face red and glistening from sweat and tears, veins visibly at their limits from the effort, while Mrs. Williams' face, though similarly apparent and for much the same reasons, is drier.<br><br>
+for a split second, i am happy. the next split-second, i am asleep.]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[written May 25, 2023; posted with clerical edits]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">Stop telling me it’s okay to be still</title>
+      <link href="https://mgintz.com/blog/2023/06/10/Stop-telling-me-it's-okay-to-be-still/" rel="alternate" type="text/html" title="Stop telling me it’s okay to be still" />
+      <published>2023-06-10T00:00:00-04:00</published>
+      <updated>2023-06-10T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2023/06/10/Stop-telling-me-it&apos;s-okay-to-be-still</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2023/06/10/Stop-telling-me-it&apos;s-okay-to-be-still/"><![CDATA[One loud, resounding <i>Click!</i> of the metal edge of Mrs. Williams' ruler against her music stand after another, each more desperate than the last, the first few clicks simply calling for our attention, the next few screaming for it, the last few begging for their lives, each with face red and glistening from sweat and tears, veins visibly at their limits from the effort, while Mrs. Williams' face, though similarly apparent and for much the same reasons, is drier.<br><br>
 
 "You're never going to be <i>anything</i>! Not one of you is going to get out of here. You'll just keep pacing in circles, all behind each other, ants in a death spiral, chasing <i>nothing</i> which you're telling <i>everyone</i> is <i>something</i>, everyone in the <i>same</i> spiral as <i>you</i>, until you've just <i>had it</i>, and that will be that."<br><br>
 
@@ -278,7 +743,47 @@ At some point, the janitor passes through. "You alright?" Mrs. Williams, now jus
 
 The next time she sits up, the shadows are longer outside, though not as long as she had expected (feared?) they would be.<br><br>
 
-However long ago, she had heard something similar, from a teacher of her own, one hated by most. Had she really proven him wrong? And why did she still so strongly feel the need to?]]></content><author><name></name></author><summary type="html"><![CDATA[One loud, resounding Click! of the metal edge of Mrs. Williams' ruler against her music stand after another, each more desperate than the last, the first few clicks simply calling for our attention, the next few screaming for it, the last few begging for their lives, each with face red and glistening from sweat and tears, veins visibly at their limits from the effort, while Mrs. Williams' face, though similarly apparent and for much the same reasons, is drier.]]></summary></entry><entry><title type="html">why isn’t staying healthy getting any easier</title><link href="https://mgintz.com/blog/2023/06/03/why-isn't-staying-healthy-getting-any-easier/" rel="alternate" type="text/html" title="why isn’t staying healthy getting any easier" /><published>2023-06-03T00:00:00-04:00</published><updated>2023-06-03T00:00:00-04:00</updated><id>https://mgintz.com/blog/2023/06/03/why-isn&apos;t-staying-healthy-getting-any-easier</id><content type="html" xml:base="https://mgintz.com/blog/2023/06/03/why-isn&apos;t-staying-healthy-getting-any-easier/"><![CDATA[<b>1: Work isn't proof of failure</b><br><br>
+However long ago, she had heard something similar, from a teacher of her own, one hated by most. Had she really proven him wrong? And why did she still so strongly feel the need to?]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[One loud, resounding Click! of the metal edge of Mrs. Williams' ruler against her music stand after another, each more desperate than the last, the first few clicks simply calling for our attention, the next few screaming for it, the last few begging for their lives, each with face red and glistening from sweat and tears, veins visibly at their limits from the effort, while Mrs. Williams' face, though similarly apparent and for much the same reasons, is drier.]]></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      
+
+      <title type="html">why isn’t staying healthy getting any easier</title>
+      <link href="https://mgintz.com/blog/2023/06/03/why-isn't-staying-healthy-getting-any-easier/" rel="alternate" type="text/html" title="why isn’t staying healthy getting any easier" />
+      <published>2023-06-03T00:00:00-04:00</published>
+      <updated>2023-06-03T00:00:00-04:00</updated>
+      <id>https://mgintz.com/blog/2023/06/03/why-isn&apos;t-staying-healthy-getting-any-easier</id>
+      
+      
+        <content type="html" xml:base="https://mgintz.com/blog/2023/06/03/why-isn&apos;t-staying-healthy-getting-any-easier/"><![CDATA[<b>1: Work isn't proof of failure</b><br><br>
 
 There is no naturally healthy way to live. Health, in almost all senses, is a rock you have to push up a hill. Getting enough exercise. Eating right. Keeping addictions, of all forms, at bay. Talking to people.<br><br>
 
@@ -344,4 +849,34 @@ This list is for when everything just becomes blindingly difficult.<br><br>
 
 On the roughest of days, sometimes just checking these simple boxes is tough.<br><br>
 
-But at the end of those days, I get through these, and I call my day a success.]]></content><author><name></name></author><summary type="html"><![CDATA[1: Work isn't proof of failure]]></summary></entry></feed>
+But at the end of those days, I get through these, and I call my day a success.]]></content>
+      
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        
+      
+
+      
+
+      
+      
+        <summary type="html"><![CDATA[1: Work isn't proof of failure]]></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
