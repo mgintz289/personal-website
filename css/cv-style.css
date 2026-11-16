@@ -65,10 +65,16 @@ li.has-details > details > summary::before {
   content: "\25BA";        /* ► */
   position: absolute;
   right: 100%;             /* arrow's right edge sits at the text's left edge */
-  margin-right: 1.4em;     /* gap between arrow and text, like a native bullet */
+  margin-right: 1.4em;     /* arrow's right edge sits at the text's left edge */
+  margin-left: -1em;     /* gap between arrow and text, like a native bullet */
   transform: scale(0.7);
   transform-origin: right center;
   /* color: LinkText; */
+}
+span#arrow {
+  display: inline-block;
+  transform: scale(0.7);
+  transform-origin: right center;
 }
 li.has-details > details[open] > summary::before {
   content: "\25BC";        /* ▼ */
