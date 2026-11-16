@@ -1,0 +1,97 @@
+body {
+	/* color: #ddd; */
+	background-color: white;
+	line-height: 1.5;
+}
+#name {
+	padding-left: 16px;
+	padding-right: 16px;
+	/* padding-top: 16px; */
+}
+#eight {
+	padding-left: 16px;
+	padding-right: 16px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: 16px;
+	margin-bottom: 0;
+	border: 1px solid black;
+}
+.entry {
+	padding-left: 24px;
+	text-indent: -24px;
+}
+.cv-sec-header {
+	margin: 16px 0 0 0;
+	padding: 0;
+	text-indent: 0;
+	text-decoration: underline;
+}
+ul {
+	margin: 0 0 0 -24px;
+}
+li {
+	/* text-indent: 0; */
+	padding-left: 24px;
+}
+details {
+	border: none;
+	padding:0px;
+}
+/* summary::marker {
+	content:"\25BA \0020"/ ""
+} */
+li.has-details {
+  list-style: none;
+}
+
+li.has-details > details > summary {
+  list-style: none;
+  position: relative;      /* anchor for the arrow */
+  cursor: pointer;
+  /* no padding-left */
+}
+li.has-details > details > summary::-webkit-details-marker {
+  display: none;
+}
+
+li.has-details > details > summary::before {
+  content: "\25BA";        /* ► */
+  position: absolute;
+  right: 100%;             /* arrow's right edge sits at the text's left edge */
+  margin-right: 1.4em;     /* gap between arrow and text, like a native bullet */
+  transform: scale(0.7);
+  transform-origin: right center;
+  /* color: LinkText; */
+}
+li.has-details > details[open] > summary::before {
+  content: "\25BC";        /* ▼ */
+}
+/* li:has(details) {
+	text-indent:-44px;
+}
+li:has(details) li {
+	text-indent:-24px !important;
+} */
+
+/* details[open] > summary::marker {
+    content: "\25BC \0020"/ "";
+}
+li#arrow>summary {
+	list-style-type: "";
+	margin-left: -28px;
+	padding-left: 48px;
+	text-indent: -40px;
+} */
+/* li#arrow li {
+	margin-left: 0 !important;
+	padding-left: 24px !important;
+	text-indent: -24px !important;
+} */
+ img {
+	max-height:8em;
+	max-width:calc(100% + 24px);
+	border:1px solid black;
+	margin-left:-24px;
+	margin-right: 0px
+ }
