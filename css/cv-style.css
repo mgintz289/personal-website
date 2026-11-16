@@ -27,6 +27,12 @@ body {
 	text-indent: 0;
 	text-decoration: underline;
 }
+.cv-toc {
+	margin: 0 0 0 0;
+	padding: 0 0 0 16px;
+	text-indent: 0;
+	text-decoration: underline;
+}
 ul {
 	margin: 0 0 0 -24px;
 }
